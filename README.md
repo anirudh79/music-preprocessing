@@ -1,6 +1,6 @@
 # music-preprocessing
 
-I have preprocessed the data from the datasets in the following steps:
+I have preprocessed the data from the dataset in the following steps:
 
 1.Removing the columns and rows in which more than 50% of the values were missing-
 The dropna() method is used to do this by setting the respective threshold values for columns and rows
